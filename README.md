@@ -6,51 +6,51 @@
 
 **Table of Contents**
 
-**[*Summary	4*](#summary)**
+**[*Summary	*](#summary)**
 
 [***Review of Other Work	7***](#review-of-other-work)
 
-[**Review Of Work 1	7**](#review-of-work-1)
+[**Review Of Work 1	**](#review-of-work-1)
 
-[**Review Of Work 2	7**](#review-of-work-2)
+[**Review Of Work 2	**](#review-of-work-2)
 
-[**Review Of Work 3	8**](#review-of-work-3)
+[**Review Of Work 3	**](#review-of-work-3)
 
 [***Changes To Project Environment	9***](#changes-to-project-environment)
 
-[**Original Environment	9**](#original-environment)
+[**Original Environment	**](#original-environment)
 
-[**Current Environment	11**](#current-environment)
+[**Current Environment	**](#current-environment)
 
-[***Methodology	12***](#methodology)
+[***Methodology	***](#methodology)
 
 [***Project Goals, Objectives, and Deliverables	14***](#project-goals,-objectives,-and-deliverables)
 
-[**Project Goals, Objectives, and Deliverables Descriptions	14**](#project-goals,-objectives,-and-deliverables-descriptions)
+[**Project Goals, Objectives, and Deliverables Descriptions	**](#project-goals,-objectives,-and-deliverables-descriptions)
 
-[**Goals, Objectives, and Deliverables Table	20**](#goals,-objectives,-and-deliverables-table)
+[**Goals, Objectives, and Deliverables Table	**](#goals,-objectives,-and-deliverables-table)
 
-[***Project Timeline with Milestones	21***](#project-timeline-with-milestones)
+[***Project Timeline with Milestones	***](#project-timeline-with-milestones)
 
-[***Unanticipated Scope Creep	22***](#unanticipated-scope-creep)
+[***Unanticipated Scope Creep	***](#unanticipated-scope-creep)
 
-[***Conclusion	24***](#conclusion)
+[***Conclusion	***](#conclusion)
 
-[***References	27***](#references)
+[***References	***](#references)
 
-[***Appendices	28***](#appendices)
+[***Appendices	***](#appendices)
 
-[***Appendix A	28***](#appendix-a)
+[***Appendix A	***](#appendix-a)
 
 [**Mobile-Device Optimization Achieved Through CSS Code Alteration	28**](#mobile-device-optimization-achieved-through-css-code-alteration)
 
-[***Appendix B	29***](#appendix-b)
+[***Appendix B	***](#appendix-b)
 
 [**Vintage Audio/Video Repair Shop’s Successful Speed Test Results	29**](#vintage-audio/video-repair-shop’s-successful-speed-test-results)
 
-[***Appendix C	30***](#appendix-c)
+[***Appendix C	***](#appendix-c)
 
-[**Vintage Audio/Video Repair Shop’s Google Business Integration Exemplified	30**](#vintage-audio/video-repair-shop’s-google-business-integration-exemplified)
+[**Vintage Audio/Video Repair Shop’s Google Business Integration Exemplified	**](#vintage-audio/video-repair-shop’s-google-business-integration-exemplified)
 
 # 
 
