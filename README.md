@@ -8,7 +8,7 @@
 
 **[*Summary	*](#summary)**
 
-[***Review of Other Work	7***](#review-of-other-work)
+[***Review of Other Work	***](#review-of-other-work)
 
 [**Review Of Work 1	**](#review-of-work-1)
 
