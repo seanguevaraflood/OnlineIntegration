@@ -2,9 +2,7 @@
 
 ##  Online Integration For Vintage Audio/Video Repair Shop
 
-## Sean Guevara Flood
-
-## Western Governors University
+## Sean Guevara-Flood
 
 **Table of Contents**
 
