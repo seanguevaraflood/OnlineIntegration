@@ -238,8 +238,6 @@ Forbes (2016, April 12). *First 10 things you should do when launching a website
 
 	Appendix A demonstrates an example of some of the CSS code we used to improve the presentation of web elements on mobile devices. This helped us perfect the website's display, regardless of the platform. This was crucial in optimizing the display of media elements, as the website relied on a lot of images to convey important ideas and topics.
 
-![][image1]
-
 ![image alt](https://github.com/seanguevaraflood/OnlineIntegration/blob/9955cc4b652513b7604fac358f102fd904894338/images/CSS%20Code.png)
 
 
@@ -253,7 +251,7 @@ Forbes (2016, April 12). *First 10 things you should do when launching a website
 
 ## **Vintage Audio/Video Repair Shop’s Successful Speed Test Results** {#vintage-audio/video-repair-shop’s-successful-speed-test-results}
 
-The item presented in Appendix B demonstrates our website speed test. This was the moment we achieved the speed levels we were looking for. By optimizing the website’s design, we were able to achieve an impressive speed. This ensured customers would not see issues connecting to the website in a timely manner. ![A screenshot of a web pageDescription automatically generated][image2]
+The item presented in Appendix B demonstrates our website speed test. This was the moment we achieved the speed levels we were looking for. By optimizing the website’s design, we were able to achieve an impressive speed. This ensured customers would not see issues connecting to the website in a timely manner.
 
 
 ![image alt](https://github.com/seanguevaraflood/OnlineIntegration/blob/9955cc4b652513b7604fac358f102fd904894338/images/Speed%20Test.png)
@@ -268,6 +266,6 @@ The item presented in Appendix B demonstrates our website speed test. This was t
 
 ## **Vintage Audio/Video Repair Shop’s Google Business Integration Exemplified** {#vintage-audio/video-repair-shop’s-google-business-integration-exemplified}
 
-This final appendix entry documents how the website appeared after being entered into Google’s Business Index. Successfully filling the necessary channels with proper information allowed customers to quickly access information about Vintage Audio/Video Repair Shop. This greatly reduced the amount of in-person information dissemination Vintage Audio/Video Repair Shop has to conduct daily, saving the company precious operation time.![A cellphone with a screen on itDescription automatically generated][image3]
+This final appendix entry documents how the website appeared after being entered into Google’s Business Index. Successfully filling the necessary channels with proper information allowed customers to quickly access information about Vintage Audio/Video Repair Shop. This greatly reduced the amount of in-person information dissemination Vintage Audio/Video Repair Shop has to conduct daily, saving the company precious operation time.
 
 ![image alt](https://github.com/seanguevaraflood/OnlineIntegration/blob/9955cc4b652513b7604fac358f102fd904894338/images/Google%20Business%20Integration.png)
